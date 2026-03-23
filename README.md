@@ -1,0 +1,2 @@
+Repositorio sobre o curso de Data Science da Alura onde foi analisado um data base de filmes. Usei diversos codigos que não teram um sentido em ordem necessariamente, mas foi para me familiarizar com os codigos, tipo de bibliotecas como o pandas, seaborn e matplotlib por exemplo.
+As principais ferramentas usadas foram o seaborn, pandas e o metplotlib alem de ter usado o NumPy para encontrar medias e medianas por exemplo.
