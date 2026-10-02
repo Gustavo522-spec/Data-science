@@ -26,6 +26,17 @@ Durante os exercícios e experimentos, utilizei:
 
 * Cálculos de estatística básica para análise exploratória.
 
+## 📊 Principais conclusões
+
+**1. As avaliações tendem a ser positivas.**
+Analisando as mais de 100 mil notas do MovieLens, percebe-se que as pessoas costumam avaliar bem o que assistem: a média e a mediana ficam em 3,5. A nota mais recorrente é 4,0, presente em cerca de 27% dos casos.
+
+**2. Médias de filmes com poucas avaliações enganam.**
+Apesar das notas médias variarem de 0,5 a 5,0, cerca de 35% dos filmes possuem apenas uma avaliação. Por isso, para comparar títulos de forma justa, é essencial avaliar o volume de público junto com a nota.
+
+**3. A base do TMDB é dominada por filmes em inglês.**
+A base do TMDB conta com 4.803 filmes e apresenta forte concentração em produções de língua inglesa (cerca de 94% do catálogo). Entre os demais idiomas, o francês desponta em primeiro lugar, somando 70 títulos.
+
 
 ⚠️ AVISO
 
